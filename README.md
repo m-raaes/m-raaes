@@ -2,7 +2,7 @@
   <b>M. Raees Ghoor</b>
 </h1>
 
-Heya! I'm M. Raees Ghoor, a Lecturer currently living in Kwa-Zulu Natal, South Africa. I'm gaining experience in IT & Programming from an educator's perspective and furthering my knowledge through projects on the side.
+Hey There! I'm M. Raees Ghoor from South Africa. I'm gaining experience in IT & Programming from an educator's perspective and furthering my knowledge through projects on the side. 
 
 <br>
 
