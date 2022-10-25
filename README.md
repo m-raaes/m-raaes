@@ -2,7 +2,7 @@
   <b>M. Raees Ghoor</b>
 </h1>
 
-Hey There! I'm M. Raees Ghoor from South Africa. I'm gaining experience in IT & Programming from an educator's perspective and furthering my knowledge through projects on the side. 
+Hey There! I'm Muhammad Raees Ghoor from South Africa. I'm gaining experience in IT from an educator's perspective and furthering my knowledge through projects on the side. 
 
 <br>
 
