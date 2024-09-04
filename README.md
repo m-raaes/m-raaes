@@ -2,7 +2,7 @@
   <b>M. Raees Ghoor</b>
 </h1>
 
-Hey There! I'm Muhammad Raees Ghoor from South Africa. I'm gaining experience in IT from an educator's perspective and furthering my knowledge through projects on the side. 
+Passionate tech enthusiast with a developer's mindset, always exploring the latest innovations and trends. A blend of creativity and code, driven by curiosity and a love for all things tech..  
 
 <br>
 
